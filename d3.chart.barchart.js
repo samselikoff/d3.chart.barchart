@@ -1,7 +1,6 @@
 (function() {
   d3.chart('BarChart', {
     initialize : function() {
-      this._margin = {top: 40, right: 20, bottom: 40, left: 60};
       this.xScale  = d3.scale.ordinal();
       this.yScale  = d3.scale.linear();
       this._color  = d3.scale.category10();
