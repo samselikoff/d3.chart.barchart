@@ -1,0 +1,26 @@
+{
+  "name": "d3.chart.barchart",
+  
+  "description": "A simple barchart built with d3.chart",
+
+  "version": "0.1.0",
+  
+  "author": "Sam Selikoff",
+  
+  "license": "MIT Expat",
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samselikoff/d3.chart.barchart.git"
+  },
+  
+  "keywords": [
+    "d3.js",
+    "visualization",
+    "svg"
+  ],
+
+  "d3.chart": {
+    "version" : "0.1.2"
+  }
+}
