@@ -1,7 +1,7 @@
 d3.chart.barchart
 =================
 
-[View demo](http://jsfiddle.net/samselikoff/BkPLn/4/)
+[View demo](http://jsbin.com/xuvid/1/edit)
 
 
 A simple bar chart built with d3.chart
