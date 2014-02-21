@@ -1,6 +1,9 @@
 d3.chart.barchart
 =================
 
+[View demo](http://jsfiddle.net/samselikoff/BkPLn/4/)
+
+
 A simple bar chart built with d3.chart
 
 ### Sample use
